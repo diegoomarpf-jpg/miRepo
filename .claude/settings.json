@@ -1,0 +1,28 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "shell": "powershell",
+            "command": "[Console]::OutputEncoding = [System.Text.Encoding]::UTF8; $base = 'C:\\Users\\1544\\Documents\\Claude\\Projects\\MasterPlanAromaria\\MasterPlanAromaria'; $context = [System.IO.File]::ReadAllText(\"$base\\CONTEXT.md\", [System.Text.Encoding]::UTF8); $tareas = [System.IO.File]::ReadAllText(\"$base\\TAREAS.md\", [System.Text.Encoding]::UTF8); $sesiones = [System.IO.File]::ReadAllText(\"$base\\SESIONES.md\", [System.Text.Encoding]::UTF8); $full = \"$context`n`n---`n`n$tareas`n`n---`n`n$sesiones\"; @{ hookSpecificOutput = @{ hookEventName = 'UserPromptSubmit'; additionalContext = $full } } | ConvertTo-Json -Compress",
+            "statusMessage": "Cargando contexto de Aromaria..."
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "shell": "powershell",
+            "command": "[Console]::OutputEncoding = [System.Text.Encoding]::UTF8; $fecha = Get-Date -Format 'yyyy-MM-dd HH:mm'; $linea = \"`n> Sesión cerrada automáticamente: $fecha\"; Add-Content -Path 'C:\\Users\\1544\\Documents\\Claude\\Projects\\MasterPlanAromaria\\MasterPlanAromaria\\SESIONES.md' -Value $linea -Encoding UTF8",
+            "statusMessage": "Guardando sello de sesión..."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+"Entiendo que quieres automatizar con n8n y potenciar con Claude. Para que esa IA sea útil, necesitamos que la nave hable el mismo idioma que el código. Mi proyecto en Monday.com no es solo organizar tareas; es **estructurar la base de datos operativa de la empresa**. Sin esta estructura, n8n no tiene qué mover y Claude no tiene qué analizar. Yo construiré el cimiento de datos sobre el cual tu equipo de IA hará magia."
+
+"Obsidian sigue la filosofia de no depender de una herramienta, todo el conocimiento se puede exportar a cualquier herramienta"

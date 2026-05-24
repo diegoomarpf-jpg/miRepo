@@ -94,22 +94,21 @@ Ver nota completa: [[PODCAST RODRIGO]]
 
 ---
 
-## Estado del MVP al 22 de mayo
+## Estado al 24 de mayo
 
-**Funciona:**
-- Google Sheets → n8n trigger → Monday (crea elemento) ✓
-- Conexión n8n ↔ Monday API ✓
+**Completado:**
+- ✅ Deck PPTX generado — `C:\Users\1544\Documents\Rediseño de tableros\Deck Rodrigo — 27 Mayo 2026.pptx` (16 slides)
+- ✅ Vault en GitHub (`diegoomarpf-jpg/miRepo`) + obsidian-git + agente ops-diego activo
+- ✅ Workflow A (crear entradas PT) funcionando end-to-end
+- ✅ Workflow B: 3 de 4 nodos funcionan — Webhook ✅, Apps Script ✅, Get items ✅
 
-**Falta construir (ver spec en [[Aromaria — MVP QR Form Monday]]):**
-- [ ] Crear Google Form con 8 campos
-- [ ] Vincular Form a Sheets
-- [ ] Agregar Apps Script (trigger instantáneo vía webhook)
-- [ ] Cambiar trigger de n8n: Sheets polling → Webhook
-- [ ] Obtener IDs de columnas del board Monday
-- [ ] Mapear campos Form → Monday en n8n
-- [ ] Probar flujo completo end-to-end
-- [ ] Generar QR Code
-- [ ] Preparar el board Monday para que se vea limpio en el demo
+**Pendiente crítico:**
+- ❌ Workflow B — nodo "Change a column value" mal configurado (fix: Board ID `18412458512`, Item ID `{{ $json.id }}`, Column ID `color_mm36nssa`, Value `{"label": "Almacén PT"}`)
+- ⬜ Prueba end-to-end del Workflow B con CONT-001
+- ⬜ QR codes impresos (URLs listas en [[Aromaria — MVP QR Form Monday]])
+- ⬜ Video de respaldo grabado
+- ⬜ Board Monday limpio para el demo
+- ⬜ Ensayo de la presentación en voz alta
 
 ---
 
@@ -117,10 +116,10 @@ Ver nota completa: [[PODCAST RODRIGO]]
 
 | Día | Foco | Entregable |
 |---|---|---|
-| Jue 22 (hoy) | Dormir — documentar en vault | ✅ Vault documentado |
-| Vie 23 | Construir MVP completo | Demo funcionando end-to-end |
-| Sáb 24 | Pruebas + grabar video de respaldo | Video + flujo estable |
-| Dom 25 | Construir deck PPTX | Presentación lista |
+| Jue 22 | Dormir — documentar en vault | ✅ Vault documentado |
+| Vie 23 | Construir MVP completo | ✅ Workflows construidos |
+| Sáb 24 | Deck PPTX + fix nodo n8n | ✅ Deck listo · ❌ Fix pendiente |
+| Dom 25 | Fix n8n + prueba + QRs + video | Demo estable + video de respaldo |
 | Lun 26 | Ensayo completo en voz alta | Timing dominado |
 | Mar 27 | **LA REUNIÓN** | Promoción |
 

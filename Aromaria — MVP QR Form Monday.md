@@ -236,14 +236,37 @@ Ejecutar en: `https://api.monday.com/v2` con tu API token en el header `Authoriz
 
 ---
 
-## Bloqueante actual — Nodo "Change a column value" mal configurado (al 2026-05-24)
-Los 3 primeros nodos funcionan end-to-end. El nodo final de actualización da error. Configuración correcta a aplicar:
-- Board ID: `18412458512`
-- Item ID: `{{ $json.id }}`
-- Column ID: `color_mm36nssa`
-- Value: `{"label": "Almacén PT"}` ← formato JSON obligatorio para columnas tipo status
+## Estado al 2026-05-25 — Solución pendiente de probar (lunes 26)
 
-**Tunnel:** debe estar activo antes de cualquier prueba. URL actual: `https://whenever-skill-pose-atom.trycloudflare.com` (puede cambiar al reiniciar).
+El nodo Monday nativo v1 tiene un bug confirmado: convierte `itemId` a string internamente sin importar el tipo que pases. Se descartaron estas opciones:
+- `{{ $json.id }}` → null (array, necesita índice)
+- `{{ $json[0].id }}` → invalid type string
+- `{{ parseInt($json[0].id) }}` → invalid type (bug del nodo)
+- HTTP Request con JSON body → escaping doble rompe el JSON
+
+### ✅ Solución definitiva — Nodo Code + HTTP Request
+
+**Paso 1: Nodo Code** (insertar entre "Get items by column value" y HTTP Request)
+```javascript
+const mondayItems = $input.first().json;
+const itemId = mondayItems[0].id;
+
+return [{
+  json: {
+    query: `mutation { change_column_value(board_id: 18412458512, item_id: ${itemId}, column_id: "color_mm36nssa", value: "{\\"label\\": \\"Almacén PT\\"}") { id } }`
+  }
+}];
+```
+
+**Paso 2: HTTP Request**
+- Method: POST
+- URL: `https://api.monday.com/v2`
+- Headers: `Content-Type: application/json`, `Authorization: Bearer TU_API_TOKEN`
+- Body: JSON → Using Fields Below
+  - Name: `query`
+  - Value (modo expresión `=`): `={{ $json.query }}`
+
+**Tunnel:** debe estar activo antes de cualquier prueba. URL puede cambiar al reiniciar cloudflared.
 
 ---
 

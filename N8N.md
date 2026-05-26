@@ -27,7 +27,7 @@ docker compose up -d --no-deps n8n
 
 
 
-https://farms-agents-scott-acm.trycloudflare.com
+https://excel-associate-butterfly-prescribed.trycloudflare.com
 
 ID cliente
 

@@ -35,3 +35,6 @@ ID cliente
 secreto
 
 [GOOGLE_OAUTH_CLIENT_SECRET — guardado fuera del vault]
+
+
+https://aromaria-squad.monday.com/boards/18412458512/pulses/12091667865

@@ -64,7 +64,6 @@ Un contenedor no existe solo — alguien lo tiene que originar. Esta es la capa 
 | Orden de Recepción | Recepción de Insumos | Team Leader de Almacén | Formulario al llegar una compra |
 | Orden de Producción | Producción / Mezcla | Team Leader de Producción | Formulario según plan y disponibilidad de insumos |
 | Orden de Picking de Insumos | Producción → Almacén | Generada automáticamente | Se crea al registrar una Orden de Producción |
-| Lote de Llenado / Envasado | Llenado / Envasado | Derivado de la OP | Se vincula al avanzar la Orden de Producción |
 | Pedido (Despacho) | Almacén PT → Despacho | Tablero externo "Pedidos de almacén" | Se importa automáticamente — ya viene creado |
 
 **El pedido es el único contenedor que no se crea en la nave** — llega desde el tablero de ventas/almacén. Todos los demás son responsabilidad de los team leaders.

@@ -53,6 +53,55 @@ Un contenedor "vive" en una sola etapa a la vez. Cuando avanza, el operario lo r
 
 ---
 
+## Ciclo de vida de un contenedor: ¿quién los crea?
+
+Un contenedor no existe solo — alguien lo tiene que originar. Esta es la capa de **planificación** del sistema, distinta de la capa de **seguimiento** (QR + formularios).
+
+### Tipos de contenedor y su origen
+
+| Tipo de contenedor | Macroproceso | ¿Quién lo origina? | ¿Cómo? |
+|---|---|---|---|
+| Orden de Recepción | Recepción de Insumos | Team Leader de Almacén | Formulario al llegar una compra |
+| Orden de Producción | Producción / Mezcla | Team Leader de Producción | Formulario según plan y disponibilidad de insumos |
+| Orden de Picking de Insumos | Producción → Almacén | Generada automáticamente | Se crea al registrar una Orden de Producción |
+| Lote de Llenado / Envasado | Llenado / Envasado | Derivado de la OP | Se vincula al avanzar la Orden de Producción |
+| Pedido (Despacho) | Almacén PT → Despacho | Tablero externo "Pedidos de almacén" | Se importa automáticamente — ya viene creado |
+
+**El pedido es el único contenedor que no se crea en la nave** — llega desde el tablero de ventas/almacén. Todos los demás son responsabilidad de los team leaders.
+
+### Fase 1 — Creación manual por Team Leader (vía formulario)
+
+El mismo principio de cero fricción aplica para crear contenedores, no solo para moverlos.
+
+**Ejemplo — Orden de Producción:**
+1. El Team Leader de Producción evalúa qué se puede producir según los insumos disponibles
+2. Llena un formulario simple: Producto, Cantidad objetivo, Lote de referencia, Fecha estimada
+3. n8n crea el elemento en Monday (la Orden de Producción) con estado "Pendiente"
+4. Automáticamente se genera la Orden de Picking de Insumos vinculada
+5. Desde ese momento, el QR de esa orden existe y los operarios pueden darle seguimiento
+
+**Por qué el Team Leader y no el dueño:** El TL tiene el conocimiento operativo en tiempo real — sabe qué hay en nave, qué está en proceso, qué se puede producir. Es el punto de entrada más natural para la planificación del día a día.
+
+### Fase futura — Creación asistida por IA (Bill of Materials inteligente)
+
+Con inventario y datos de producción acumulados en Monday, el sistema puede evolucionar a generar las órdenes de forma autónoma.
+
+**El flujo sería:**
+1. El sistema detecta un pedido nuevo (o una meta de producción)
+2. Consulta el inventario de insumos actual en Monday
+3. Corre el Bill of Materials: ¿qué se necesita para producir X unidades?
+4. Según el resultado, genera automáticamente:
+   - **Orden de Producción** — si hay insumos suficientes
+   - **Orden de Picking de Insumos** — con exactamente lo que se necesita, sin más
+   - **Orden de Compra** — solo por lo que falta, dirigida a proveedor correspondiente
+   - **Orden de Producción en espera** — si faltan insumos, queda pausada hasta que lleguen
+
+**El rol del Team Leader cambia:** De crear órdenes manualmente a **aprobar o rechazar propuestas** que el sistema genera. Pasa de operativo a decisor.
+
+Esta fase requiere que la Fase 1 esté funcionando y generando datos confiables — la IA solo es tan buena como los datos que tiene.
+
+---
+
 ## Historias de usuario
 
 ### El operario de nave
@@ -64,13 +113,13 @@ Un contenedor "vive" en una sola etapa a la vez. Cuando avanza, el operario lo r
 - **Como operario**, quiero recibir una confirmación visual inmediata de que mi registro fue exitoso, para saber que hice mi parte y seguir con mi trabajo.
 - **Como operario**, no quiero necesitar capacitación para usar el sistema — si necesito explicación, el sistema está mal diseñado.
 
-### El supervisor / equipo de producción
+### El team leader
 
 > **"Ver el estado de la nave sin preguntar a nadie."**
 
-- **Como supervisor**, quiero ver en tiempo real cuántos contenedores hay en cada etapa del proceso, para saber si hay un cuello de botella sin tener que caminar por la nave.
-- **Como supervisor**, quiero que el sistema me alerte si un contenedor lleva más tiempo del normal en una etapa, para intervenir antes de que el retraso afecte la producción.
-- **Como supervisor**, quiero ver el historial de movimientos de cualquier contenedor específico, para investigar incidentes de calidad o producción.
+- **Como team leader**, quiero ver en tiempo real cuántos contenedores hay en cada etapa del proceso, para saber si hay un cuello de botella sin tener que caminar por la nave.
+- **Como team leader**, quiero que el sistema me alerte si un contenedor lleva más tiempo del normal en una etapa, para intervenir antes de que el retraso afecte la producción.
+- **Como team leader**, quiero ver el historial de movimientos de cualquier contenedor específico, para investigar incidentes de calidad o producción.
 
 ### Rodrigo — el dueño
 

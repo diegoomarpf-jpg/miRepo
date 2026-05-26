@@ -40,6 +40,7 @@ ai-first: true
 ## Aromaria — Cliente Rodrigo
 
 - [[Backlog Estrátegico]] — Master Plan Aromaria: inventario, trazabilidad, organigrama (prioridades 1-5)
+- [[Aromaria — Gestión de Contenedores (Concepto)]] — Diseño conceptual e historias de usuario del sistema de trazabilidad de contenedores en la nave
 
 ## UMA SPA — Cliente Carol
 

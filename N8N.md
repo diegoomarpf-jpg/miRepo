@@ -25,8 +25,7 @@ docker compose up -d --no-deps n8n
 
 
 
-
-https://edit-analyze-excess-summit.trycloudflare.com
+https://russell-expects-colleagues-bouquet.trycloudflare.com 
 
 ID cliente
 

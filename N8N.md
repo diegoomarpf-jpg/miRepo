@@ -26,8 +26,7 @@ docker compose up -d --no-deps n8n
 
 
 
-
-https://excel-associate-butterfly-prescribed.trycloudflare.com
+https://edit-analyze-excess-summit.trycloudflare.com
 
 ID cliente
 

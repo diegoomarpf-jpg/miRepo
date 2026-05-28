@@ -11,31 +11,19 @@ ai-first: true
 
 ---
 
-## 🔴 URGENTE — Reunión Aromaria el 27 de Mayo (en 5 días)
+## ⚪ Aromaria — Reunión cancelada (cerrado al 2026-05-28)
 
-- Diego tiene una reunión con Rodrigo (dueño de Aromaria) el **martes 27 de mayo de 2026**
-- En esa reunión **se decide si Diego es promovido** al nuevo equipo de IA de Aromaria
-- Actualmente Diego es **Analista y Auditor de Calidad** en la nave operativa
-- La promoción lo trasladaría a la **oficina administrativa**
-- Diego debe presentar: qué ha hecho con IA + su visión para hacer Aromaria AI-first
-- Ver plan completo en `[[Aromaria — Reunión 27 Mayo]]`
+- La reunión del 27 de mayo con Rodrigo fue cancelada sin explicación
+- Diego mantiene su empleo como Analista de Calidad en la nave operativa
+- **El foco de proyecto se mueve a Advanx / NearStream** — ver abajo
+- El MVP (QR → n8n → Monday) existe como asset reutilizable para futuros clientes
 
-## 🔴 MVP — Workflow B casi listo (continuar el 24 de mayo)
+## 🔴 FOCO ACTUAL — Advanx / NearStream (desde 2026-05-28)
 
-- Workflow A (crear entradas PT) ✅ funciona end-to-end
-- Workflow B (actualizar Ubicación actual) 🟡 CASI — un nodo falta configurar correctamente
-- Apps Script ✅ dispara correctamente (fix: nueva URL del tunnel)
-- Webhook n8n ✅ recibe los datos
-- Nodo "Get items by column value" ✅ encuentra el contenedor (CONT-001 confirmado, id: `12091594700`)
-- Nodo "Change a column value" ❌ da error — configuración incorrecta del valor
-- **Próximo paso (INMEDIATO):** configurar el nodo "Change a column value" con exactamente:
-  - Board ID: `18412458512`
-  - Item ID: `{{ $json.id }}`
-  - Column ID: `color_mm36nssa`
-  - Value: `{"label": "Almacén PT"}` ← el formato JSON con "label" es crítico para columnas status
-- **Tunnel activo:** `https://whenever-skill-pose-atom.trycloudflare.com` — levantar antes de probar
-- 3 contenedores de prueba en Monday: CONT-001, CONT-002, CONT-003 (todos en "Producción")
-- Ver spec completa y URLs en `[[Aromaria — MVP QR Form Monday]]`
+- Diego piva hacia su consultoría propia: [[Advanx]] + vertical [[NearStream Registro de Iteraciones|NearStream]]
+- NearStream 3ª iteración: automatizar procesos con n8n/Python para PyMEs que aún usan Excel
+- El MVP de Aromaria es prueba de concepto reutilizable para propuestas a clientes
+- **Próximo paso:** definir propuesta de servicio concreta y buscar primer cliente piloto
 
 ---
 

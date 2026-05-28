@@ -51,13 +51,13 @@ Esta sola pregunta ahorra meses de conversaciones sin cierre. Aprendido de leads
 
 ## Madurez Digital — El Punto Dulce
 
-| Nivel | Descripción | Fit |
-|---|---|---|
-| 0 | Sin herramientas digitales. Papel y memoria. | ❌ Cambio demasiado grande |
-| **1** | **WhatsApp + Excel básico. Nada conectado.** | ✅ Cliente ideal bajo |
-| **2** | **Excel avanzado, Google Sheets, algo de Drive.** | ✅ Cliente ideal alto |
-| 3 | ERP o CRM mal configurado | 🟡 Posible, más complejo |
-| 4 | Digitalizados. Stack moderno. | ❌ No te necesitan |
+| Nivel | Descripción                                       | Fit                       |
+| ----- | ------------------------------------------------- | ------------------------- |
+| 0     | Sin herramientas digitales. Papel y memoria.      | ❌ Cambio demasiado grande |
+| **1** | **WhatsApp + Excel básico. Nada conectado.**      | ✅ Cliente ideal bajo      |
+| **2** | **Excel avanzado, Google Sheets, algo de Drive.** | ✅ Cliente ideal alto      |
+| 3     | ERP o CRM mal configurado                         | 🟡 Posible, más complejo  |
+| 4     | Digitalizados. Stack moderno.                     | ❌ No te necesitan         |
 
 ---
 

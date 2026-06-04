@@ -32,4 +32,27 @@
 
 
 
+  🏆 RANKING DE PODER — Cierre Semana 22 🏆
 
+  Los guerreros más poderosos de la Caja Michi, ordenados por experiencia acumulada:
+
+  🥇 José Quintana — Nivel 4 · 106 XP
+  👑 Enfrenta al 👁️ El Contemplador. Líder absoluto e imparable.
+
+  🥈 Alejandro Pavón — Nivel 4 · 105 XP
+  🥈 Griselda Farfán — Nivel 4 · 105 XP
+  ¡Empate épico por el segundo lugar! Ambos en Nivel 4, ambos frente al mismo jefe oscuro. La diferencia la hará la semana 23... 😤
+
+  4️⃣ Diego Pavon — Nivel 3 · 84 XP
+  5️⃣ Carolina Pavon — Nivel 3 · 80 XP
+  6️⃣ Lorena Quintana — Nivel 3 · 79 XP
+  6️⃣ Victoria Alonso — Nivel 3 · 79 XP
+  8️⃣ Matias Bonilla — Nivel 3 · 74 XP
+  9️⃣ Verónica Quintana — Nivel 3 · 71 XP
+  🔟 Alondra Quintana — Nivel 3 · 70 XP
+  1️⃣1️⃣ Victoria Quintana — Nivel 3 · 66 XP
+  1️⃣2️⃣ Aldo Pavon — Nivel 1 · 30 XP
+
+  — — —
+
+  Dato de suspenso: José lleva semanas atacando sin parar 🔥 Si Alejandro y Griselda no contraatacan esta semana, el primero lugar quedará fuera de alcance. ¿Alguien detiene al líder? 😼⚔️

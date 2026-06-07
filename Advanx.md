@@ -103,6 +103,18 @@ Sprint 1 mes ($22k) →  Acompañamiento si el cliente quiere escalar
 
 ---
 
+## Marca (al 2026-06-06)
+
+**Nombre:** Advanx  
+**Tagline:** Ordena. Mide. Escala.  
+**Lógica del tagline:** 3 palabras que cuentan el método completo. Cada punto separa una fase. Concreto y accionable — habla al dueño que quiere un proceso claro, no una promesa vaga.
+
+---
+
 ## Pendientes
 - [x] Escribir pitch de una oración por cada servicio
 - [x] Definir primer cliente objetivo para NearStream → ver [[NearStream Registro de Iteraciones]]
+- [x] Nombre + tagline definidos → Advanx / Ordena. Mide. Escala.
+- [ ] Posicionamiento formal → borrador listo en [[Advanx — Posicionamiento (borrador)]], pendiente revisión de Diego
+- [ ] Dirección visual (colores, tipografía)
+- [ ] One-pager para prospectos

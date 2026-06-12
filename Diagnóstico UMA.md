@@ -50,6 +50,9 @@ UMA Spa es el primer cliente real de [[Advanx]] (firmado como NearStream Consult
 - Documento integrador que consolide los 4 entregables del Pilar 1
 - **Una vez completada: caso listo para usarse como credencial con el siguiente cliente de Advanx**
 
+Ver tracker completo de las 16 sesiones: [[UMA Spa — Tracker de Acompañamiento]]
+Ver metodología completa: [[Advanx — Metodología Completa]]
+
 ---
 
 ## Diagnóstico Original (al 2026-05-01)

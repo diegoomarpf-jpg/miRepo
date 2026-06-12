@@ -60,7 +60,7 @@ Planeación (4 ses.)  →  Organización (4 ses.)  →  Dirección (4 ses.)  →
 | 3 | Estructura de costos + objetivos | Punto de equilibrio en unidades reales + 3 objetivos SMART para 90 días |
 | 4 | Criterios de crecimiento + cierre | Criterios de escalamiento + Business Model Canvas (síntesis 20-30 min) + documento integrador |
 
-**Entregable del cierre de fase:** Documento integrador con los 4 entregables consolidados — la base estratégica del negocio.
+**Documento integrador de cierre:** "Base Estratégica" — propuesta de valor + ICP + costos + objetivos SMART consolidados en un solo documento.
 
 ---
 
@@ -75,7 +75,7 @@ Planeación (4 ses.)  →  Organización (4 ses.)  →  Dirección (4 ses.)  →
 | 3 | Roles y accountability | Quién es responsable de qué — se documenta el ROL (no la persona) para saber qué contratar después |
 | 4 | Revisión de implementación | El cliente ejecutó los procesos 2 semanas. ¿Qué funcionó? ¿Qué se rompe en práctica? Ajuste final |
 
-**Entregable del cierre de fase:** Manual de operaciones básico (procesos + roles) — el negocio puede funcionar sin que el dueño lo explique todo de palabra.
+**Documento integrador de cierre:** "Manual de Operaciones" — mapa de procesos + SOPs + roles en un solo documento. El negocio puede funcionar sin que el dueño lo explique todo de palabra.
 
 ---
 
@@ -90,7 +90,7 @@ Planeación (4 ses.)  →  Organización (4 ses.)  →  Dirección (4 ses.)  →
 | 3 | Protocolo de decisiones | Reglas escritas: si X baja de Y, hago Z. Cuándo contratar. Cuándo agregar servicio. Cuándo ajustar precios |
 | 4 | Primera revisión con datos | Primera decisión tomada basada en el dashboard — en vivo, juntos |
 
-**Entregable del cierre de fase:** Dashboard operativo + protocolo de decisiones escrito — el dueño deja de operar por intuición.
+**Documento integrador de cierre:** "Kit de Decisiones" — dashboard + KPIs + protocolo de decisiones. El dueño deja de operar por intuición.
 
 ---
 
@@ -105,7 +105,7 @@ Planeación (4 ses.)  →  Organización (4 ses.)  →  Dirección (4 ses.)  →
 | 3 | Criterios de escalamiento | Con 3 fases de datos reales: cuándo contratar, cuándo abrir otro turno, cuándo subir precios |
 | 4 | Documento maestro + roadmap 12 meses | Todo lo construido en las 4 fases consolidado. Hoja de ruta para el siguiente año |
 
-**Entregable del cierre de fase:** Playbook del negocio completo + roadmap 12 meses — el negocio puede crecer sin que el consultor regrese.
+**Documento integrador de cierre:** "Playbook Completo" — consolida Base Estratégica + Manual de Operaciones + Kit de Decisiones, más flywheel + roadmap 12 meses. El negocio puede crecer sin que el consultor regrese.
 
 ---
 

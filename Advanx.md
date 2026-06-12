@@ -8,11 +8,16 @@ tags:
 ai-first: true
 related-projects:
   - "[[NearStream Registro de Iteraciones]]"
+  - "[[CAROL]]"
+  - "[[Diagnóstico UMA]]"
+related-people:
+  - "[[CAROL]]"
 confidence: stated
+updated: 2026-06-11
 ---
 
 ## Para el futuro Claude
-Advanx es la consultoría de Diego (2 personas). Paraguas de todo el trabajo de consultoría — [[NearStream Registro de Iteraciones|NearStream]] es su vertical de automatización. Cliente ideal: PyMEs de ~50 personas. Precios definidos el 2026-05-29. Meta de ingreso: $15,000–$25,000 MXN/mes (complemento al empleo en [[Aromaria]]). Con 1 cliente en acompañamiento se cubre la meta mínima.
+Advanx es la consultoría de Diego (2 personas). Paraguas de todo el trabajo de consultoría — [[NearStream Registro de Iteraciones|NearStream]] es su vertical de automatización. Cliente ideal: PyMEs de ~50 personas. Precios definidos el 2026-05-29. Meta de ingreso: $15,000–$25,000 MXN/mes (complemento al empleo en [[Aromaria]]). Con 1 cliente en acompañamiento se cubre la meta mínima. **Al 2026-06-11: Advanx ya es una consultoría en operación real — no una idea. Tiene primer cliente real ([[CAROL]] / [[Diagnóstico UMA|UMA Spa]]), 3 sesiones completadas, metodología tomando forma. El nombre definitivo es Advanx (anteriormente los documentos del primer caso se firmaron como NearStream Consulting).**
 
 ---
 
@@ -111,10 +116,42 @@ Sprint 1 mes ($22k) →  Acompañamiento si el cliente quiere escalar
 
 ---
 
+## Primer Caso de Éxito: UMA Spa (al 2026-06-11)
+
+**Cliente:** [[CAROL]] — spa de masajes de relajación profunda y tratamientos reductivos en proceso de apertura formal.
+**Engagement firmado como:** NearStream Consulting (nombre anterior al definitivo Advanx)
+**Estado:** 3 de 4 sesiones del Pilar de Planeación completadas. Sesión 4 pendiente.
+
+### Hallazgos clave documentados
+- **Sesión 1:** Propuesta de valor formalizada. ICP en 5 dimensiones. Servicio ancla = masaje relajante.
+- **Sesión 2:** Motivador real descubierto vía entrevistas — los clientes no compran un masaje, compran la certeza de que alguien estará completamente presente para ellos, sin prisa y con cuidado genuino. Protocolo de bienvenida como ventaja competitiva diferenciada.
+- **Sesión 3:** Estructura de costos desde cero. **Punto de equilibrio: 34 masajes/mes. Capacidad actual: 96. Mes típico: 27.** La brecha para ser rentable = 7 masajes adicionales/mes (<2/semana). Problema: visibilidad, no capacidad. 3 objetivos SMART para 90 días formulados.
+- **Sesión 4:** Criterios de crecimiento + Business Model Canvas (síntesis) + documento integrador — **PENDIENTE**
+
+**Próximo paso único:** Completar Sesión 4 con [[CAROL]]. Cuando se complete, el caso estará listo como credencial para el siguiente cliente.
+
+Ver metodología completa: [[Advanx — Metodología Pilar de Planeación]]
+
+---
+
+## Análisis de Mercado — Valle de Toluca (al 2026-06-11)
+
+- Nadie en la zona combina las 4 dimensiones de Advanx: procesos, personas, datos e integración de IA con presencia local
+- Competidores más cercanos atacan cada eje por separado (Consultoría Integral TI MX en el lado tecnológico; firmas de RH en personas) — el espacio integrado está vacío
+- Segmento PyME de consultoría crece 7.7% anual (al 2026-06-11, verificar vigencia)
+- Consultoría tecnológica crece 12.8% anual (al 2026-06-11, verificar vigencia)
+- 76% de las PyMEs mexicanas aún sin digitalizar (al 2026-06-11, verificar vigencia) — demanda existe, mercado inmaduro → hay que educar antes de vender
+- Confianza: `medium` — datos de sesión, sin fuentes primarias
+
+---
+
 ## Pendientes
 - [x] Escribir pitch de una oración por cada servicio
 - [x] Definir primer cliente objetivo para NearStream → ver [[NearStream Registro de Iteraciones]]
 - [x] Nombre + tagline definidos → Advanx / Ordena. Mide. Escala.
+- [x] Primer cliente real confirmado → [[CAROL]] / UMA Spa (3 sesiones completadas)
+- [ ] **Completar Sesión 4 con [[CAROL]]** — único paso pendiente para cerrar primer caso de éxito
 - [ ] Posicionamiento formal → borrador listo en [[Advanx — Posicionamiento (borrador)]], pendiente revisión de Diego
 - [ ] Dirección visual (colores, tipografía)
 - [ ] One-pager para prospectos
+- [ ] Activar red personal de ventas (pendiente desde 2026-05-28 — riesgo de inacción acumulada)

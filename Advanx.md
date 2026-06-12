@@ -130,7 +130,7 @@ Sprint 1 mes ($22k) →  Acompañamiento si el cliente quiere escalar
 
 **Próximo paso único:** Completar Sesión 4 con [[CAROL]]. Cuando se complete, el caso estará listo como credencial para el siguiente cliente.
 
-Ver metodología completa: [[Advanx — Metodología Pilar de Planeación]]
+Ver metodología completa: [[Advanx — Metodología Completa]] (16 sesiones / 4 fases)
 
 ---
 

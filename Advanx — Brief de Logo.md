@@ -73,14 +73,14 @@ Direcciones posibles (el diseñador puede proponer otras):
 
 ### Paleta obligatoria — "Bosque Encantado"
 
-| Rol | Color | Hex |
-|---|---|---|
+| Rol             | Color            | Hex       |
+| --------------- | ---------------- | --------- |
 | Fondo principal | Pergamino cálido | `#FAF3E0` |
-| Primario | Verde bosque | `#4A7C59` |
-| Acento | Dorado ámbar | `#D4A843` |
-| Texto oscuro | Verde noche | `#1E2A1A` |
-| Pop | Coral suave | `#E8836A` |
-| Secundario | Crema | `#EDE0C8` |
+| Primario        | Verde bosque     | `#4A7C59` |
+| Acento          | Dorado ámbar     | `#D4A843` |
+| Texto oscuro    | Verde noche      | `#1E2A1A` |
+| Pop             | Coral suave      | `#E8836A` |
+| Secundario      | Crema            | `#EDE0C8` |
 
 El logo debe funcionar principalmente en **verde bosque y/o verde noche sobre pergamino**, con el dorado como acento opcional.
 

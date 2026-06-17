@@ -41,3 +41,12 @@ Ver `[[El Stack Tecnológico (La Triple Alianza)]]` — Monday.com + n8n + Claud
 
 - **2026-05** — Rodrigo habló con Diego en la nave y le dijo que lo iba a invitar al equipo de IA pendiente de la reunión del 27 de mayo.
 - **2026-05-22** — Diego documenta el Master Plan y prepara la presentación. Ver `[[Aromaria — Reunión 27 Mayo]]`.
+- **2026-05-27** — Reunión cancelada sin explicación.
+- **2026-06-15** — Rodrigo fue sin avisar a la nave y aceptó el proyecto en persona. Puntos clave del acuerdo:
+  - No hay rol formal definido — Diego lo construye conforme resuelve problemas reales
+  - Implementación: tal como se propuso (Monday + n8n + Claude)
+  - Diego sigue en nave; posible traslado a oficinas si resuelve un problema específico de allá
+  - Reunión semanal: 1 vez/semana · 2 horas · Rodrigo + directores de nave · tema: avance IA
+  - Recursos prometidos: computadora mejor + suscripción Claude superior
+  - Lo que convenció a Rodrigo: el vault de Obsidian (cerebro digital) — Diego comprometió un "Company Brain" para Aromaria donde el equipo pueda consultar información de la empresa
+  - Primer entregable pedido: lista de todas las herramientas en uso (Claude Code, Obsidian, etc.)

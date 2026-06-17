@@ -11,19 +11,24 @@ ai-first: true
 
 ---
 
-## ⚪ Aromaria — Reunión cancelada (cerrado al 2026-05-28)
+## 🟢 Aromaria IA — ACTIVO (desde 2026-06-15)
 
-- La reunión del 27 de mayo con Rodrigo fue cancelada sin explicación
-- Diego mantiene su empleo como Analista de Calidad en la nave operativa
-- **El foco de proyecto se mueve a Advanx / NearStream** — ver abajo
-- El MVP (QR → n8n → Monday) existe como asset reutilizable para futuros clientes
+- La reunión del 27 de mayo fue cancelada sin explicación (al 2026-05-28)
+- **El 15 de junio de 2026, Rodrigo fue sin avisar y aceptó el proyecto en persona**
+- **No hay rol formal definido** — Diego construye el rol en el camino conforme resuelve problemas
+- **Implementación:** tal como se propuso en la presentación (Monday + n8n + Claude)
+- **Ubicación:** sigue en la nave; se mueve a oficinas solo si resuelve un problema específico de allá
+- **Reunión semanal:** 1 vez/semana · 2 horas · con Rodrigo + directores de nave · tema: avance IA
+- **Recursos prometidos:** computadora mejor + suscripción Claude superior
+- **Lo que convenció a Rodrigo:** el vault de Obsidian (cerebro digital) — Diego comprometió un "Company Brain" para Aromaria donde la gente pueda consultar información de la empresa
+- **Primer entregable (próxima reunión):** lista de todas las herramientas en uso (Claude Code, Obsidian, etc.)
 
-## 🔴 FOCO ACTUAL — Advanx / NearStream (desde 2026-05-28)
+## 🔴 FOCO ACTUAL — Advanx + Aromaria IA (desde 2026-06-15)
 
-- Diego piva hacia su consultoría propia: [[Advanx]] + vertical [[NearStream Registro de Iteraciones|NearStream]]
-- NearStream 3ª iteración: automatizar procesos con n8n/Python para PyMEs que aún usan Excel
-- El MVP de Aromaria es prueba de concepto reutilizable para propuestas a clientes
-- **Próximo paso:** definir propuesta de servicio concreta y buscar primer cliente piloto
+- **Aromaria IA:** construir rol + preparar lista de herramientas para primera reunión semanal
+- **Advanx:** cliente activo [[CAROL]] / UMA Spa — Sesión 4 pendiente de agendar
+- NearStream 3ª iteración: sin clientes activos aún
+- **Próximo paso Aromaria:** preparar lista de herramientas + definir en la reunión el primer problema a resolver
 
 ---
 

@@ -45,15 +45,20 @@ Estrategia de contenido para redes sociales de [[CAROL]] / UMA Spa, diseñada co
          ↓
 [Claude API — genera caption + hashtags]
          ↓
-[Ideogram API — genera imagen]
+[Ideogram API — genera imagen de fondo]
+         ↓
+[Placid API — overlay del logo sobre la imagen]
          ↓
 [Buffer API — programa el post]
          ↓
 [Google Sheets — log de publicado]
 ```
 
-**Costo operativo estimado:** ~$30–40 USD/mes para 30 posts  
-**Herramienta de imagen:** Ideogram (tiene API real, compatible con n8n. Midjourney descartado — sin API estable)
+**Costo operativo estimado:** ~$50–60 USD/mes para 30 posts  
+**Herramienta de imagen:** Ideogram (tiene API real, compatible con n8n. Midjourney descartado — sin API estable)  
+**Herramienta de composición:** Placid (~$19 USD/mes) — permite crear una plantilla una sola vez con el logo de UMA ya posicionado; la API recibe la imagen de Ideogram como fondo y devuelve la imagen final lista. Alternativa más potente: Bannerbear (~$49 USD/mes), recomendado si se escala a múltiples clientes en Advanx.
+
+> **Nota:** Ideogram no puede insertar un logo existente en la imagen generada — solo genera desde cero. La composición final (logo + imagen IA) se hace obligatoriamente en una capa separada vía Placid/Bannerbear. Carol sube el logo una vez a la plantilla; el flujo lo aplica automáticamente en cada post.
 
 ---
 
@@ -291,5 +296,5 @@ Criterio para automatizar: cuando el 80% de los posts salgan aprobados sin edici
 | Retención mensual (operación + ajustes + reporte) | $2,500–$4,000 MXN/mes |
 | Campañas especiales / temporadas | por proyecto |
 
-**Costo operativo real para Advanx:** ~$30–40 USD/mes por cliente  
+**Costo operativo real para Advanx:** ~$50–60 USD/mes por cliente (Ideogram + Placid + Buffer)  
 **Diferenciador del servicio:** No se venden "posts" — se vende un sistema que aprende la voz de la marca y produce sin intervención del cliente.

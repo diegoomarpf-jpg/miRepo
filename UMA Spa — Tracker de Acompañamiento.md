@@ -39,14 +39,17 @@ Total: 3 / 16 sesiones completadas
 
 - [x] **S1 — Propuesta de valor + ICP** | Fecha: ~2026-05
   - Entregable: Propuesta de valor en una oración + perfil ICP en 5 dimensiones ✅
+  - Documento: [[UMA Spa — Sesión 1 — Propuesta de Valor + ICP]]
 
 - [x] **S2 — Motivador de compra real** | Fecha: ~2026-05
   - Entregable: Motivador documentado + mensaje de venta ajustado + protocolo de bienvenida ✅
   - Hallazgo clave: los clientes no compran un masaje, compran la certeza de presencia total sin prisa
+  - Documento: [[UMA Spa — Sesión 2 — Motivador de Compra Real]]
 
 - [x] **S3 — Estructura de costos + objetivos SMART** | Fecha: ~2026-05
   - Entregable: Punto de equilibrio + objetivos SMART ✅
   - Hallazgo clave: PE = 34 masajes/mes · capacidad = 96 · mes típico = 27 · brecha = 7 masajes (<2/semana)
+  - Documento: [[UMA Spa — Sesión 3 — Estructura de Costos + Objetivos]]
 
 - [ ] **S4 — Criterios de crecimiento + cierre de fase** | Fecha: pendiente agendar 🔴
   - Entregable: criterios de escalamiento + Business Model Canvas (20-30 min) + documento integrador
@@ -115,21 +118,21 @@ Total: 3 / 16 sesiones completadas
 
 ## Log de Sesiones
 
-| # | Fase | Tema | Fecha | Estado |
-|---|---|---|---|---|
-| S1 | Planeación | Propuesta de valor + ICP | ~2026-05 | ✅ |
-| S2 | Planeación | Motivador de compra real | ~2026-05 | ✅ |
-| S3 | Planeación | Costos + objetivos SMART | ~2026-05 | ✅ |
-| S4 | Planeación | Criterios de crecimiento + cierre | — | 🔴 Pendiente |
-| S5 | Organización | Mapeo de procesos | — | ⬜ |
-| S6 | Organización | SOPs | — | ⬜ |
-| S7 | Organización | Roles y accountability | — | ⬜ |
-| S8 | Organización | Revisión de implementación | — | ⬜ |
-| S9 | Dirección | KPIs | — | ⬜ |
-| S10 | Dirección | Dashboard | — | ⬜ |
-| S11 | Dirección | Protocolo de decisiones | — | ⬜ |
-| S12 | Dirección | Primera revisión con datos | — | ⬜ |
-| S13 | Control | Flywheel | — | ⬜ |
-| S14 | Control | Retención y referidos | — | ⬜ |
-| S15 | Control | Criterios de escalamiento | — | ⬜ |
-| S16 | Control | Documento maestro + roadmap | — | ⬜ |
+| # | Fase | Tema | Fecha | Estado | Documento |
+|---|---|---|---|---|---|
+| S1 | Planeación | Propuesta de valor + ICP | ~2026-05 | ✅ | [[UMA Spa — Sesión 1 — Propuesta de Valor + ICP]] |
+| S2 | Planeación | Motivador de compra real | ~2026-05 | ✅ | [[UMA Spa — Sesión 2 — Motivador de Compra Real]] |
+| S3 | Planeación | Costos + objetivos SMART | ~2026-05 | ✅ | [[UMA Spa — Sesión 3 — Estructura de Costos + Objetivos]] |
+| S4 | Planeación | Criterios de crecimiento + cierre | — | 🔴 Pendiente | — |
+| S5 | Organización | Mapeo de procesos | — | ⬜ | — |
+| S6 | Organización | SOPs | — | ⬜ | — |
+| S7 | Organización | Roles y accountability | — | ⬜ | — |
+| S8 | Organización | Revisión de implementación | — | ⬜ | — |
+| S9 | Dirección | KPIs | — | ⬜ | — |
+| S10 | Dirección | Dashboard | — | ⬜ | — |
+| S11 | Dirección | Protocolo de decisiones | — | ⬜ | — |
+| S12 | Dirección | Primera revisión con datos | — | ⬜ | — |
+| S13 | Control | Flywheel | — | ⬜ | — |
+| S14 | Control | Retención y referidos | — | ⬜ | — |
+| S15 | Control | Criterios de escalamiento | — | ⬜ | — |
+| S16 | Control | Documento maestro + roadmap | — | ⬜ | — |

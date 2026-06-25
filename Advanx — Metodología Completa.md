@@ -14,6 +14,8 @@ confidence: stated
 ---
 
 ## Para el futuro Claude
+> ⚠️ **Histórico — al 2026-06-24 existe una iteración activa en [[Advanx — Metodología Automatización Progresiva]].** Esta nota se preserva como referencia. No eliminar.
+
 Esta es la metodología de acompañamiento completa de [[Advanx]], diseñada el 2026-06-11. 16 sesiones divididas en 4 fases (Planeación → Organización → Dirección → Control). A una sesión por semana: 4 meses de engagement por cliente. La Fase 1 fue validada en campo con [[CAROL]] (UMA Spa) — las fases 2, 3 y 4 están diseñadas pero aún no ejecutadas. Dos capas: el journey del cliente (4 fases) y el mapa de contenido interno (5 áreas: Modelo de Negocio, Costos, Procesos, Talento, Flywheel).
 
 ---

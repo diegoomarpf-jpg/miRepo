@@ -20,7 +20,7 @@ review-notes: "No demostró la lógica de reducción de riesgo del cliente (Paso
 ---
 
 ## Para el futuro Claude
-Síntesis generada el 2026-05-22. Identifica que Diego usa exactamente el mismo método de venta en todos sus proyectos — diagnóstico gratuito, demostración de valor sin riesgo, luego acompañamiento de meses — aunque cada proyecto lo nombra diferente. Esto indica que Diego ya tiene un método validado que puede documentar formalmente como IP de Advanx.
+Síntesis generada el 2026-05-22, actualizada el 2026-06-24. Identifica que Diego usa el mismo embudo de 3 pasos en todos sus proyectos: diagnóstico gratuito → demostración de valor → acompañamiento formal. **Al 2026-06-24 este es el embudo oficial de [[Advanx]] (El Método Diego), adoptado formalmente después de confirmar que el mercado PyME no maduro no valora un diagnóstico pagado de entrada.** NearStream y Advanx ahora comparten el mismo modelo de ventas.
 
 ---
 
@@ -45,17 +45,31 @@ Paso 3 — EL PROYECTO GRANDE:
   "Cuando ven el antes y el después, el proyecto grande se vende solo."
 ```
 
-### Advanx — `[[Advanx]]`
+### Advanx — `[[Advanx]]` (modelo original 2026-05-29, reemplazado)
 
 ```
-Paso 1 — DIAGNÓSTICO:
-  "Presentación y cuestionario robusto."
+[MODELO ANTERIOR — ya no vigente]
+Paso 1 — DIAGNÓSTICO PAGADO: $25,000 MXN
+Paso 2 — SPRINT 1 MES: $22,000 MXN
+Paso 3 — ACOMPAÑAMIENTO: $18,000/mes × 3 meses
+→ Problema: el cliente de PyME no madura no valora pagar por diagnóstico solo.
+→ Reemplazado el 2026-06-24 por el Método Diego unificado (ver abajo).
+```
 
-Paso 2 — ACOMPAÑAMIENTO CORTO:
-  "Acompañamiento de 1 mes."
+### Advanx — `[[Advanx]]` (modelo vigente al 2026-06-24)
 
-Paso 3 — ACOMPAÑAMIENTO LARGO:
-  "Acompañamiento de 3 meses."
+```
+Paso 1 — DIAGNÓSTICO EXPRESS (GRATIS):
+  Llamada 90 min + documento "mapa de dolor" de 1 página.
+  Riesgo del cliente: cero.
+
+Paso 2 — SPRINT EXPRESS ($10,000 MXN):
+  Implementamos el quick win identificado en 1–2 semanas.
+  El cliente ve el antes y el después antes de comprometerse.
+
+Paso 3 — ACOMPAÑAMIENTO ($18,000/mes × 4 meses):
+  Metodología completa: 16 sesiones / 4 fases.
+  El proyecto grande se vende solo después del sprint.
 ```
 
 ### UMA SPA — `[[CAROL]]`
@@ -72,53 +86,52 @@ Paso 2 → 3 — ESTRUCTURA:
 
 ---
 
-## La Estructura Universal
+## La Estructura Universal (vigente al 2026-06-24)
 
-> ⚠️ **Nota de vigencia (2026-05-29):** El Paso 1 se implementa diferente según el producto.
-> - **NearStream (iteración 3):** Diagnóstico gratuito en 48h ("mándame tu Excel, te mando un video").
-> - **Advanx:** Diagnóstico cobrado a **$25,000 MXN** (el diagnóstico ES el primer producto).
-> La síntesis original (2026-05-22) generalizó ambos modelos como "gratuito" — incorrecto para Advanx.
+NearStream y Advanx ahora comparten el mismo modelo. La síntesis original era correcta — fue el desvío del 2026-05-29 (diagnóstico pagado) el que fue un error, corregido el 2026-06-24.
 
 ```
-1. DIAGNÓSTICO (NearStream: gratuito | Advanx: $25,000 MXN)
+1. DIAGNÓSTICO GRATUITO (sin compromiso)
    → Objetivo: que el cliente vea SU problema cuantificado
-   → Herramienta: cuestionario / análisis de su Excel / video de 3 min (NearStream)
-               o presentación ejecutiva + roadmap (Advanx)
-   → Tiempo de Diego: horas (NearStream) / 2–3 semanas (Advanx)
-   → Riesgo del cliente: cero (NearStream) / inversión controlada (Advanx)
+   → Herramienta: llamada 90 min + "mapa de dolor" de 1 página / video de 3 min
+   → Tiempo de Diego: horas
+   → Riesgo del cliente: CERO
 
-2. DEMOSTRACIÓN DE VALOR (micro-proyecto o prueba)
-   → Objetivo: resolver el problema más pequeño primero
-   → Resultado: el cliente experimenta el "antes y después"
-   → El proyecto grande se vende solo sin pitch
+2. DEMOSTRACIÓN DE VALOR — Sprint Express ($10,000 MXN)
+   → Objetivo: resolver el quick win identificado en el diagnóstico
+   → Duración: 1–2 semanas
+   → Resultado: el cliente experimenta el "antes y después" real
+   → El acompañamiento se vende solo — sin pitch
 
-3. ACOMPAÑAMIENTO FORMAL (contrato)
-   → 1 mes (básico) o 4 meses / 16 sesiones (completo)
-   → Objetivo: estructura rentable y escalable
+3. ACOMPAÑAMIENTO FORMAL ($18,000/mes × 4 meses)
+   → 16 sesiones / 4 fases: Planeación → Organización → Dirección → Control
+   → Objetivo: estructura rentable, escalable y autónoma
 ```
 
 ---
 
 ## Por qué esto importa
 
-Diego ya inventó su método de ventas — lo que no ha hecho es **nombrarlo y documentarlo formalmente**.
+**Al 2026-06-24: el método ya está formalizado en [[Advanx]].** El Método Diego es el embudo oficial de ventas de la consultoría.
 
-Un método con nombre propio:
-- Se puede replicar con un equipo o socio comercial
-- Se puede usar como diferenciador de marca ("El Método Advanx")
-- Acelera el cierre porque el cliente entiende exactamente qué compra en cada etapa
+Un método con nombre propio permite:
+- Replicarlo con un equipo o socio comercial
+- Usarlo como diferenciador de marca ("El Método Advanx")
+- Acelerar el cierre porque el cliente entiende exactamente qué compra en cada etapa
 
-**Comparación con referentes:**
-- Es similar al "Paid Discovery" de Jonathan Stark / IDEO — primero diagnóstico pago o gratuito, luego propuesta informada
-- El embudo "Resuelve la tarea más pequeña primero" conecta con el principio de "foot in the door" en ventas consultivas
+**Referentes validados:**
+- Conecta con el principio "foot in the door" en ventas consultivas — compromiso progresivo
+- El sprint express es más efectivo que el "Paid Discovery" de Jonathan Stark para mercados PyME no maduros (no valoran pagar por diagnóstico sin implementación)
+- Investigación (2026-06-24): free assessment → paid implementation convierte al 30% en servicios de automatización comparables
 
 ---
 
-## Acción Sugerida
+## Estado al 2026-06-24
 
-1. Crear `Metodología de Venta Advanx.md` con el nombre oficial del método y los 3 pasos formalizados
-2. Construir el cuestionario diagnóstico como documento reutilizable entre clientes
-3. Usar el "video de 3 minutos" de NearStream como plantilla — es el mejor hook de conversión que Diego ha documentado
+- [x] Método identificado y documentado
+- [x] Formalizado como embudo oficial de [[Advanx]]
+- [ ] Cuestionario de diagnóstico como documento reutilizable entre clientes
+- [ ] Plantilla del "video de 3 minutos" de NearStream como hook para el Paso 1
 
 ---
 

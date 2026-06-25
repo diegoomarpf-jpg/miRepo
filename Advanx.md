@@ -17,7 +17,7 @@ updated: 2026-06-11
 ---
 
 ## Para el futuro Claude
-Advanx es la consultoría de Diego (2 personas). Paraguas de todo el trabajo de consultoría — [[NearStream Registro de Iteraciones|NearStream]] es su vertical de automatización. Cliente ideal: PyMEs de ~50 personas. Precios definidos el 2026-05-29. Meta de ingreso: $15,000–$25,000 MXN/mes (complemento al empleo en Aromaria). Con 1 cliente en acompañamiento se cubre la meta mínima. **Al 2026-06-11: Advanx ya es una consultoría en operación real — no una idea. Tiene primer cliente real ([[CAROL]] / [[Diagnóstico UMA|UMA Spa]]), 3 sesiones completadas, metodología tomando forma. El nombre definitivo es Advanx (anteriormente los documentos del primer caso se firmaron como NearStream Consulting).**
+Advanx es la consultoría de Diego (2 personas). Paraguas de todo el trabajo de consultoría — [[NearStream Registro de Iteraciones|NearStream]] es su vertical de automatización. Cliente ideal: PyMEs de ~50 personas. Meta de ingreso: $15,000–$25,000 MXN/mes (complemento al empleo en Aromaria). Con 1 cliente en acompañamiento se cubre la meta mínima. **Al 2026-06-11: Advanx ya es una consultoría en operación real — no una idea. Tiene primer cliente real ([[CAROL]] / [[Diagnóstico UMA|UMA Spa]]), 3 sesiones completadas, metodología tomando forma. El nombre definitivo es Advanx (anteriormente los documentos del primer caso se firmaron como NearStream Consulting).** **Al 2026-06-24: Modelo de precios revisado. El diagnóstico pagado ($25k) fue eliminado — se demostró que el mercado PyME no maduro no lo valora. Nuevo embudo: El Método Diego (Diagnóstico gratis → Sprint Express $10k → Acompañamiento $18k/mes × 4 meses).**
 
 ---
 
@@ -39,72 +39,76 @@ Ayudamos a empresas a ordenar y estructurar procesos y personas.
 
 ---
 
-## Estructura de Precios (al 2026-05-29)
+## Estructura de Precios — El Método Diego (al 2026-06-24)
 
 ### Principio de diseño
-Con 2 personas y meta de $15k–$25k/mes, 1 cliente activo en acompañamiento cubre la meta. El diagnóstico es la puerta de entrada que convierte.
+Embudo de 3 pasos que reduce el riesgo del cliente progresivamente. El dinero está en el acompañamiento — el diagnóstico gratis es la puerta de entrada, el sprint demuestra valor antes de pedir el compromiso grande.
 
 ---
 
-### Servicio 1 — Diagnóstico · $25,000 MXN (pago único)
+### Paso 1 — Diagnóstico Express · GRATIS
 
-**Duración:** 2–3 semanas  
-**Incluye:** Análisis de procesos clave, entrevistas con equipo, mapa de dolores, roadmap con quick wins priorizados y estimación de ROI.  
-**Entregable:** Presentación ejecutiva con plan de acción.  
-**Gancho de conversión:** Si el cliente contrata acompañamiento inmediatamente, se aplican $10,000 del diagnóstico como crédito.
+**Duración:** 60–90 min  
+**Incluye:** Llamada de diagnóstico + documento de 1 página con los 3 dolores principales y el quick win más claro.  
+**Entregable:** "Mapa de dolor" — qué está mal, qué se arregla primero, qué impacto tendría.  
+**Objetivo:** Que el cliente vea SU problema cuantificado. Riesgo del cliente: cero.
 
 ---
 
-### Servicio 2 — Acompañamiento 4 meses · $18,000 MXN/mes ($72,000 total)
+### Paso 2 — Sprint Express · $10,000 MXN (pago único)
 
-**Incluye:** Implementación de 1–2 automatizaciones (n8n/Python), sesiones semanales de seguimiento, dashboard de avance, soporte por WhatsApp.  
-**Entregable:** Procesos automatizados corriendo en producción.  
+**Duración:** 1–2 semanas  
+**Incluye:** Implementación del quick win identificado en el diagnóstico. El cliente experimenta el antes y después real.  
+**Entregable:** 1 proceso funcionando diferente — automatización, estructura o dashboard básico en producción.  
+**Objetivo:** El cliente ve resultados antes de comprometerse al proyecto grande. El acompañamiento se vende solo.
+
+---
+
+### Paso 3 — Acompañamiento · $18,000 MXN/mes (4 meses / $72,000 total)
+
+**Incluye:** Metodología Advanx completa (16 sesiones, 4 fases: Planeación → Organización → Dirección → Control), automatizaciones n8n/Python, dashboard de avance, soporte por WhatsApp.  
+**Entregable:** Procesos clave automatizados + equipo tomando decisiones con datos reales.  
 **Tiempo estimado:** 6–8h/semana entre los dos — manejable en paralelo al empleo.
 
 ---
 
-### Servicio 3 — Sprint 1 mes · $22,000 MXN (pago único)
-
-**Duración:** 4 semanas  
-**Incluye:** 1 proceso automatizado de punta a punta. Para clientes que quieren ver resultados antes de comprometerse.  
-**Entregable:** Flujo n8n/Python en producción + documentación.  
-**Nota:** Más caro por hora que el acompañamiento — la urgencia y el alcance corto tienen prima.
-
----
-
-## Funnel Natural
+## Funnel Natural (El Método Diego)
 
 ```
-Diagnóstico ($25k)  →  Acompañamiento 3 meses ($18k/mes)  →  Renovación
-Sprint 1 mes ($22k) →  Acompañamiento si el cliente quiere escalar
+Diagnóstico Express (gratis)
+    → Sprint Express ($10k) — el cliente ve resultados reales
+        → Acompañamiento 4 meses ($18k/mes) — el proyecto completo
+            → Renovación / referidos
 ```
 
 ---
 
 ## Math de supervivencia
 
-| Escenario                                | Ingreso mensual               |
-| ---------------------------------------- | ----------------------------- |
-| 1 cliente en acompañamiento              | $18,000                       |
-| 1 diagnóstico + 1 acompañamiento (mes 1) | $43,000                       |
-| 2 clientes en acompañamiento             | $36,000                       |
-| Meta mínima ($15k–$25k)                  | 1 cliente activo = suficiente |
+| Escenario | Ingreso |
+|---|---|
+| 1 Sprint Express | $10,000 |
+| 1 cliente en acompañamiento (mensual) | $18,000 |
+| 1 Sprint + mes 1 de acompañamiento | $28,000 |
+| 1 cliente completo (sprint + 4 meses) | $82,000 |
+| 2 clientes en acompañamiento simultáneos | $36,000/mes |
+| Meta mínima ($15k–$25k/mes) | 1 cliente activo en acompañamiento = suficiente |
 
 ---
 
 ## Equipo
 - 2 personas (al 2026-05-29)
 
-## Pitches por servicio (al 2026-05-29)
+## Pitches por paso (al 2026-06-24)
 
-**Diagnóstico:**
-> "En 3 semanas te decimos exactamente dónde está perdiendo dinero tu empresa y qué tienes que arreglar primero."
+**Diagnóstico Express (gratis):**
+> "En 90 minutos te digo exactamente dónde está perdiendo dinero tu empresa y cuál es la primera cosa que hay que arreglar. Sin costo, sin compromiso."
+
+**Sprint Express:**
+> "Agarramos el problema más claro que encontramos y lo resolvemos en 2 semanas. Lo ves funcionando antes de decidir si quieres más."
 
 **Acompañamiento 4 meses:**
 > "En 4 meses tus procesos más caóticos están automatizados y tu equipo toma decisiones con datos reales, no suposiciones."
-
-**Sprint 1 mes:**
-> "En 4 semanas automatizamos un proceso completo para que lo veas funcionando antes de comprometerte a más."
 
 ---
 

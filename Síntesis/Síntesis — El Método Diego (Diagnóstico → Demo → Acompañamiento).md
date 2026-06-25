@@ -14,6 +14,9 @@ sources:
   - "[[CAROL]]"
 confidence: high
 ai-first: true
+status: sin-procesar
+reviewed-date: 2026-06-23
+review-notes: "No demostró la lógica de reducción de riesgo del cliente (Paso 2) ni pudo construir preguntas de diagnóstico que apunten al dolor operativo específico de Advanx."
 ---
 
 ## Para el futuro Claude

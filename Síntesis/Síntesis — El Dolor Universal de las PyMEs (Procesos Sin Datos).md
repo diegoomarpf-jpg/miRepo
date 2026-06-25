@@ -42,7 +42,8 @@ El mismo dolor de fondo aparece en **todos los clientes y prospectos** de Diego,
 > "Hay empresas que tienen puestos que dedican todo o gran parte de su tiempo **copiando o capturando datos en Excel**."
 
 ### Advanx — `[[Advanx]]`
-> "Ayudamos a tomar decisiones tomadas en datos. **Data driven**. Tener a la persona correcta en el lugar correcto."
+> "Transformamos empresas que operan por intuición en empresas que operan con datos — procesos documentados, automatizaciones funcionando, decisiones informadas."
+> *(Propuesta de valor actualizada al 2026-06-24. Versión anterior enfatizaba "persona correcta en el lugar correcto" — enfoque de RH reemplazado por enfoque de procesos + automatización.)*
 
 ---
 

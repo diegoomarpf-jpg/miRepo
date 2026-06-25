@@ -24,18 +24,18 @@ Advanx es la consultoría de Diego (2 personas). Paraguas de todo el trabajo de 
 ## Identidad
 
 **¿Por qué existe Advanx?**
-Ayudamos a empresas a ordenar y estructurar procesos y personas.
+Ayudamos a empresas a ordenar y estructurar procesos.
 
 **Visión a 3 años:** Dar soporte a empresas grandes.
 
-**Valores no negociables:** Integridad · Innovación · Confidencialidad · Adaptabilidad.
+**Valores no negociables:** Innovación · Confidencialidad · Adaptabilidad.
 
 **Cliente ideal:** PyMEs de ~50 personas, chicas y medianas.
 
 **Diferenciador:** Decisiones basadas en datos — data-driven.
 
 **Propuesta de valor en una oración:**
-> Ofrecemos una transformación basada en datos para tener a la persona correcta en el lugar correcto y retenerla.
+> Transformamos empresas que operan por intuición en empresas que operan con datos — procesos documentados, automatizaciones funcionando, decisiones informadas.
 
 ---
 

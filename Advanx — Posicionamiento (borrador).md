@@ -44,6 +44,6 @@ La mayoría de consultoras dejan un PowerPoint y se van. Advanx termina cada eng
 | Consultora grande | Acceso directo al experto, no a un junior. Precio de PyME, no de corporativo. |
 
 ## Por qué creerle
-- Caso Aromaria: sistema QR → Form → n8n → Monday construido y funcionando en nave operativa real
+- Caso UMA Spa ([[CAROL]]): Pilar de Planeación completo ejecutado — propuesta de valor formalizada, punto de equilibrio calculado (34 masajes/mes), brecha de rentabilidad identificada en 7 masajes adicionales/mes. Problema: visibilidad, no capacidad.
 - Equipo de 2 personas: el cliente habla directo con quien implementa, sin intermediarios
 - Enfoque primero-ordena-luego-automatiza: no se automatiza el caos

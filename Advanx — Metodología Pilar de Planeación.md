@@ -20,7 +20,7 @@ Esta es la metodología de entrega de [[Advanx]] que emergió del primer caso re
 
 ## La Metodología de Acompañamiento Advanx (al 2026-06-11)
 
-### Estructura General: 4 Pilares / 12 Semanas
+### Estructura General: 4 Fases / 16 Sesiones / 4 Meses
 
 | Pilar | Sprints | Contenido |
 |---|---|---|

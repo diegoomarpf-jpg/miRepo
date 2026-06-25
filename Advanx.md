@@ -17,7 +17,7 @@ updated: 2026-06-11
 ---
 
 ## Para el futuro Claude
-Advanx es la consultoría de Diego (2 personas). Paraguas de todo el trabajo de consultoría — [[NearStream Registro de Iteraciones|NearStream]] es su vertical de automatización. Cliente ideal: PyMEs de ~50 personas. Precios definidos el 2026-05-29. Meta de ingreso: $15,000–$25,000 MXN/mes (complemento al empleo en [[Aromaria]]). Con 1 cliente en acompañamiento se cubre la meta mínima. **Al 2026-06-11: Advanx ya es una consultoría en operación real — no una idea. Tiene primer cliente real ([[CAROL]] / [[Diagnóstico UMA|UMA Spa]]), 3 sesiones completadas, metodología tomando forma. El nombre definitivo es Advanx (anteriormente los documentos del primer caso se firmaron como NearStream Consulting).**
+Advanx es la consultoría de Diego (2 personas). Paraguas de todo el trabajo de consultoría — [[NearStream Registro de Iteraciones|NearStream]] es su vertical de automatización. Cliente ideal: PyMEs de ~50 personas. Precios definidos el 2026-05-29. Meta de ingreso: $15,000–$25,000 MXN/mes (complemento al empleo en Aromaria). Con 1 cliente en acompañamiento se cubre la meta mínima. **Al 2026-06-11: Advanx ya es una consultoría en operación real — no una idea. Tiene primer cliente real ([[CAROL]] / [[Diagnóstico UMA|UMA Spa]]), 3 sesiones completadas, metodología tomando forma. El nombre definitivo es Advanx (anteriormente los documentos del primer caso se firmaron como NearStream Consulting).**
 
 ---
 
@@ -55,7 +55,7 @@ Con 2 personas y meta de $15k–$25k/mes, 1 cliente activo en acompañamiento cu
 
 ---
 
-### Servicio 2 — Acompañamiento 3 meses · $18,000 MXN/mes ($54,000 total)
+### Servicio 2 — Acompañamiento 4 meses · $18,000 MXN/mes ($72,000 total)
 
 **Incluye:** Implementación de 1–2 automatizaciones (n8n/Python), sesiones semanales de seguimiento, dashboard de avance, soporte por WhatsApp.  
 **Entregable:** Procesos automatizados corriendo en producción.  
@@ -83,12 +83,12 @@ Sprint 1 mes ($22k) →  Acompañamiento si el cliente quiere escalar
 
 ## Math de supervivencia
 
-| Escenario | Ingreso mensual |
-|---|---|
-| 1 cliente en acompañamiento | $18,000 |
-| 1 diagnóstico + 1 acompañamiento (mes 1) | $43,000 |
-| 2 clientes en acompañamiento | $36,000 |
-| Meta mínima ($15k–$25k) | 1 cliente activo = suficiente |
+| Escenario                                | Ingreso mensual               |
+| ---------------------------------------- | ----------------------------- |
+| 1 cliente en acompañamiento              | $18,000                       |
+| 1 diagnóstico + 1 acompañamiento (mes 1) | $43,000                       |
+| 2 clientes en acompañamiento             | $36,000                       |
+| Meta mínima ($15k–$25k)                  | 1 cliente activo = suficiente |
 
 ---
 
@@ -100,8 +100,8 @@ Sprint 1 mes ($22k) →  Acompañamiento si el cliente quiere escalar
 **Diagnóstico:**
 > "En 3 semanas te decimos exactamente dónde está perdiendo dinero tu empresa y qué tienes que arreglar primero."
 
-**Acompañamiento 3 meses:**
-> "En 3 meses tus procesos más caóticos están automatizados y tu equipo toma decisiones con datos reales, no suposiciones."
+**Acompañamiento 4 meses:**
+> "En 4 meses tus procesos más caóticos están automatizados y tu equipo toma decisiones con datos reales, no suposiciones."
 
 **Sprint 1 mes:**
 > "En 4 semanas automatizamos un proceso completo para que lo veas funcionando antes de comprometerte a más."

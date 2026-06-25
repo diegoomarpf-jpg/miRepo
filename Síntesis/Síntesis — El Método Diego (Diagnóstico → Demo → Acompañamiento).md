@@ -74,12 +74,18 @@ Paso 2 → 3 — ESTRUCTURA:
 
 ## La Estructura Universal
 
+> ⚠️ **Nota de vigencia (2026-05-29):** El Paso 1 se implementa diferente según el producto.
+> - **NearStream (iteración 3):** Diagnóstico gratuito en 48h ("mándame tu Excel, te mando un video").
+> - **Advanx:** Diagnóstico cobrado a **$25,000 MXN** (el diagnóstico ES el primer producto).
+> La síntesis original (2026-05-22) generalizó ambos modelos como "gratuito" — incorrecto para Advanx.
+
 ```
-1. DIAGNÓSTICO GRATUITO (sin compromiso)
+1. DIAGNÓSTICO (NearStream: gratuito | Advanx: $25,000 MXN)
    → Objetivo: que el cliente vea SU problema cuantificado
-   → Herramienta: cuestionario / análisis de su Excel / video de 3 min
-   → Tiempo de Diego: horas
-   → Riesgo del cliente: cero
+   → Herramienta: cuestionario / análisis de su Excel / video de 3 min (NearStream)
+               o presentación ejecutiva + roadmap (Advanx)
+   → Tiempo de Diego: horas (NearStream) / 2–3 semanas (Advanx)
+   → Riesgo del cliente: cero (NearStream) / inversión controlada (Advanx)
 
 2. DEMOSTRACIÓN DE VALOR (micro-proyecto o prueba)
    → Objetivo: resolver el problema más pequeño primero
@@ -87,7 +93,7 @@ Paso 2 → 3 — ESTRUCTURA:
    → El proyecto grande se vende solo sin pitch
 
 3. ACOMPAÑAMIENTO FORMAL (contrato)
-   → 1 mes (básico) o 3 meses (completo)
+   → 1 mes (básico) o 4 meses / 16 sesiones (completo)
    → Objetivo: estructura rentable y escalable
 ```
 

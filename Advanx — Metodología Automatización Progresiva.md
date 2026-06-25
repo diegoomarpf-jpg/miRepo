@@ -55,12 +55,12 @@ Mes 4 — CRECIMIENTO → automatizar captación, retención y referidos
 
 **Pregunta que responde:** ¿Qué necesitamos saber para construir tu roadmap de automatización?
 
-| Sesión | Tema | Por qué importa para automatizar |
-|--------|------|----------------------------------|
-| 1 | ICP + propuesta de valor | Para saber qué mensajes y canales automatizar en captación |
-| 2 | Proceso más doloroso | Para identificar el primer quick win de automatización |
-| 3 | Estructura de costos | Para automatizar reportes de rentabilidad con datos reales |
-| 4 | Roadmap de automatización | Priorización: qué automatizamos en qué orden y por qué |
+| Sesión | Tema                      | Por qué importa para automatizar                           |
+| ------ | ------------------------- | ---------------------------------------------------------- |
+| 1      | ICP + propuesta de valor  | Para saber qué mensajes y canales automatizar en captación |
+| 2      | Proceso más doloroso      | Para identificar el primer quick win de automatización     |
+| 3      | Estructura de costos      | Para automatizar reportes de rentabilidad con datos reales |
+| 4      | Roadmap de automatización | Priorización: qué automatizamos en qué orden y por qué     |
 
 **Entregable:** Roadmap de automatización personalizado — no genérico. Cada item del roadmap tiene una razón de negocio detrás.
 
@@ -85,12 +85,12 @@ Mes 4 — CRECIMIENTO → automatizar captación, retención y referidos
 
 **Pregunta que responde:** ¿Cómo sabes si tu negocio va bien sin preguntarle a alguien?
 
-| Sesión | Tema | Ejemplo de automatización |
-|--------|------|--------------------------|
-| 1 | KPIs que importan | 3–5 métricas reales (no vanity metrics) |
-| 2 | Dashboard automático | Google Sheet / Notion que se actualiza solo con datos de las automatizaciones del Mes 2 |
-| 3 | Alertas automáticas | Si X baja de Y → notificación por WhatsApp/Slack sin intervención humana |
-| 4 | Primera decisión con datos | En vivo, juntos, basada en el dashboard — no en intuición |
+| Sesión | Tema                       | Ejemplo de automatización                                                               |
+| ------ | -------------------------- | --------------------------------------------------------------------------------------- |
+| 1      | KPIs que importan          | 3–5 métricas reales (no vanity metrics)                                                 |
+| 2      | Dashboard automático       | Google Sheet / Notion que se actualiza solo con datos de las automatizaciones del Mes 2 |
+| 3      | Alertas automáticas        | Si X baja de Y → notificación por WhatsApp/Slack sin intervención humana                |
+| 4      | Primera decisión con datos | En vivo, juntos, basada en el dashboard — no en intuición                               |
 
 **Entregable:** Dashboard que el dueño abre en el celular y ve el estado real del negocio. Sin pedirle a nadie.
 

@@ -136,16 +136,6 @@ Diagnóstico Express (gratis)
 
 Ver metodología completa: [[Advanx — Metodología Completa]] (16 sesiones / 4 fases)
 
----
-
-## Análisis de Mercado — Valle de Toluca (al 2026-06-11)
-
-- Nadie en la zona combina las 4 dimensiones de Advanx: procesos, personas, datos e integración de IA con presencia local
-- Competidores más cercanos atacan cada eje por separado (Consultoría Integral TI MX en el lado tecnológico; firmas de RH en personas) — el espacio integrado está vacío
-- Segmento PyME de consultoría crece 7.7% anual (al 2026-06-11, verificar vigencia)
-- Consultoría tecnológica crece 12.8% anual (al 2026-06-11, verificar vigencia)
-- 76% de las PyMEs mexicanas aún sin digitalizar (al 2026-06-11, verificar vigencia) — demanda existe, mercado inmaduro → hay que educar antes de vender
-- Confianza: `medium` — datos de sesión, sin fuentes primarias
 
 ---
 

@@ -8,6 +8,7 @@ SORT file.mday ASC
 
 
 ```dataview
-table type as TIPO
+table type as TIPO, tags 
+where type = "project"
 ```
 

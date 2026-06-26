@@ -10,7 +10,7 @@ For example:
 
 - The Rule 50-30-20
 
-Its for categorizing our expenses, or rather to guide how we sholud spend.
+Its for categorizing our expenses, or rather to guide how we sholud spend. 
 
 - Duality
 Its for explain that in order to appreciate the existence of something we need to experience its opposite.

@@ -95,7 +95,7 @@ ai-first: true
 
 - [[Excalidraw/MAPAS GFEP]] — Mapa visual GFEP
 - [[Excalidraw/MAPAS U3 EA]] — Mapa visual U3 EA
-- [[Excalidraw/descubriendo modelo de negocio corevax]] — Canvas modelo de negocio Corevax
+- [[descubriendo modelo de negocio corevax]] — Canvas modelo de negocio Corevax
 - [[Excalidraw/Drawing 2026-03-21 20.39.56.excalidraw]] — Dibujo libre
 - [[Entendiendo categorias de entregables lorena IMSS]] — Dibujo libre
 

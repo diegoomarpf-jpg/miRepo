@@ -1,6 +1,7 @@
----
+﻿---
 date: 2026-06-11
 type: project
+project: uma-spa
 tags:
   - project
   - umaspa

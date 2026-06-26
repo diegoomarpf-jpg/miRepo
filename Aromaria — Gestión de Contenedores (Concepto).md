@@ -1,6 +1,7 @@
----
+﻿---
 date: 2026-05-26
 type: project
+project: aromaria
 tags: [aromaria, contenedores, trazabilidad, monday, n8n, diseño-operativo]
 related-projects:
   - "[[Aromaria — MVP QR Form Monday]]"

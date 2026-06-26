@@ -1,6 +1,7 @@
----
+﻿---
 date: 2026-05-22
 type: project
+project: aromaria
 status: active
 tags: [project, aromaria, reunion, promocion, urgente]
 related-people:

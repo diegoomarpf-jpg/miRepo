@@ -1,6 +1,7 @@
----
+﻿---
 date: 2026-04-26
 type: project
+project: advanx
 tags:
   - project
   - advanx

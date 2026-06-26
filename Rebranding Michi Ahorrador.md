@@ -1,6 +1,7 @@
----
+﻿---
 date: 2026-03-22
 type: project
+project: michi-ahorrador
 tags:
   - project
   - michiahorrador

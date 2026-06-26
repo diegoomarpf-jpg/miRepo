@@ -1,6 +1,7 @@
----
+﻿---
 date: 2026-06-06
 type: project
+project: advanx
 status: pending-review
 tags: [project, advanx, marca, posicionamiento]
 related-projects:

@@ -1,6 +1,7 @@
----
+﻿---
 date: 2026-05-22
 type: project
+project: michi-ahorrador
 status: active
 tags: [project, michiahorrador, fintech, app]
 related-projects: []

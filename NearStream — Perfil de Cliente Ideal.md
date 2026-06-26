@@ -1,6 +1,7 @@
----
+﻿---
 date: 2026-05-28
 type: project
+project: nearstream
 status: active
 tags: [project, nearstream, advanx, icp, estrategia]
 related-projects:

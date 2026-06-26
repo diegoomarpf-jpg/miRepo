@@ -1,6 +1,7 @@
----
+﻿---
 date: 2026-05-03
 type: project
+project: nearstream
 tags:
   - project
   - nearstream

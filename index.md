@@ -97,7 +97,7 @@ ai-first: true
 - [[Excalidraw/MAPAS U3 EA]] — Mapa visual U3 EA
 - [[Excalidraw/descubriendo modelo de negocio corevax]] — Canvas modelo de negocio Corevax
 - [[Excalidraw/Drawing 2026-03-21 20.39.56.excalidraw]] — Dibujo libre
-- [[Excalidraw/Drawing 2026-04-27 20.37.48.excalidraw]] — Dibujo libre
+- [[Entendiendo categorias de entregables lorena IMSS]] — Dibujo libre
 
 ## Síntesis (generadas por IA)
 

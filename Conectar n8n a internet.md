@@ -16,3 +16,32 @@ dos caminos:
 	- usar un servidor intermediario
 
 La mas recomendada para novatos el tunel mediante el servicio de cloudflare tunnels. 
+
+
+Como iniciar n8n??
+
+- Abrir Docker Desktop y esperar unos segundos
+- En el navegador entrar a:  http://localhost:5678/
+
+
+docker compose up -d
+
+docker compose down
+
+docker compose logs tunnel
+
+docker compose up -d --no-deps n8n
+
+
+
+https://russell-expects-colleagues-bouquet.trycloudflare.com 
+
+ID cliente
+
+[GOOGLE_OAUTH_CLIENT_ID — guardado fuera del vault]
+secreto
+
+[GOOGLE_OAUTH_CLIENT_SECRET — guardado fuera del vault]
+
+
+https://aromaria-squad.monday.com/boards/18412458512/pulses/12091667865

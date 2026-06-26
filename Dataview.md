@@ -1,4 +1,4 @@
 ```dataview
-table
+table type as TIPO
 ```
 

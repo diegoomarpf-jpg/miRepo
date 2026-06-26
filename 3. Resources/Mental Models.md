@@ -1,6 +1,8 @@
 ---
 banner: https://i.pinimg.com/1200x/85/6a/85/856a85cd9d89553b9933f570f5697c3f.jpg
 banner-height: 260
+status: procesado
+reviewed-date: 2026-06-25
 ---
 #modelosmentales
 

@@ -1,7 +1,7 @@
-﻿---
+---
 date: 2026-05-03
 type: project
-project: nearstream
+project: advanx
 tags:
   - project
   - nearstream

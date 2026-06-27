@@ -1,9 +1,14 @@
-﻿---
+---
 date: 2026-05-28
 type: project
-project: nearstream
+project: advanx
 status: active
-tags: [project, nearstream, advanx, icp, estrategia]
+tags:
+  - project
+  - nearstream
+  - advanx
+  - icp
+  - estrategia
 related-projects:
   - "[[NearStream Registro de Iteraciones]]"
   - "[[Advanx]]"

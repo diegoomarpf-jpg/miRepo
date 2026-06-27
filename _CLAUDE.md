@@ -107,6 +107,24 @@ DIGITAL BRAIN/
 
 ---
 
+## Protocolo de Cierre de Proyecto
+
+**Trigger:** Diego dice "cierra [proyecto]" o "actualiza el INDEX [proyecto]" al terminar una sesión de trabajo.
+
+**Acción de Claude — en este orden:**
+1. Leer el `INDEX.md` del proyecto mencionado
+2. Marcar como `[x]` las tareas que se completaron durante la sesión
+3. Reescribir "Próxima acción única" con la siguiente tarea real (no la que se acaba de hacer)
+4. Actualizar `ultimo-update:` en el frontmatter con la fecha de hoy
+5. Si el status del proyecto cambió (ej. se completó una fase), actualizar `status:`
+6. Confirmar a Diego en 2-3 líneas qué cambió
+
+**Si la sesión no tuvo avances claros:** actualizar solo `ultimo-update` y preguntar "¿qué se completó hoy?" antes de modificar tareas.
+
+**Si se trabajaron varios proyectos en la misma sesión:** actualizar todos los mencionados.
+
+---
+
 ## Reglas de Auto-Guardado
 
 Claude debe guardar **sin preguntar:**

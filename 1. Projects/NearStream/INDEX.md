@@ -22,7 +22,7 @@ Construir una consultoría que facture $18,000 MXN/mes con 1 cliente en acompañ
 
 ---
 
-## El Método Diego (modelo de precios al 2026-06-24)
+## El Método Advanx (modelo de precios al 2026-06-24)
 
 | Paso | Precio | Qué incluye |
 |------|--------|-------------|

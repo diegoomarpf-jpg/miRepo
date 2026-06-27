@@ -14,12 +14,12 @@ Este archivo es un puntero al log operativo del vault. Las entradas reales está
 
 ## Estructura
 
-Las entradas del log están en `Logs/` organizadas por fecha:
+Las entradas del log están en `4. Archive/Logs/` organizadas por fecha:
 
 ```
-Logs/
-├── 2026-05-22.md    ← hoy
-├── 2026-05-23.md    ← se crea automáticamente
+4. Archive/Logs/
+├── 2026-05-22.md
+├── 2026-06-24.md
 └── ...
 ```
 
@@ -31,8 +31,8 @@ Logs/
 
 ## Cómo usar
 
-- Para ver el log de hoy: abre `Logs/2026-05-22.md`
-- Para ver el historial: navega la carpeta `Logs/`
+- Para ver el log de hoy: abre `4. Archive/Logs/<fecha>.md`
+- Para ver el historial: navega `4. Archive/Logs/`
 - Las entradas las escribe Claude automáticamente con `/obsidian-save`, `/obsidian-ingest`, etc.
 
 ---

@@ -34,6 +34,9 @@ Construir una consultoría que facture $18,000 MXN/mes con 1 cliente en acompañ
 
 ---
 
+## Backlog completo
+→ [[BACKLOG]] — todas las brechas priorizadas por dependencia
+
 ## Pendientes activos
 
 - [ ] **Sesión 4 con Carol** — cerrar Pilar de Planeación, producir "Base Estratégica"

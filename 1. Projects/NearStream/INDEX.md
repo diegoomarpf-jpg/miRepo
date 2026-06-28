@@ -3,7 +3,7 @@ type: proyecto
 status: activo
 nombre: NearStream / Advanx
 inicio: 2026-05
-ultimo-update: 2026-06-27
+ultimo-update: 2026-06-27-cierre
 ---
 
 ## Para el futuro Claude
@@ -18,7 +18,12 @@ Advanx es la consultoría de Diego (2 personas). NearStream es su vertical de au
 Construir una consultoría que facture $18,000 MXN/mes con 1 cliente en acompañamiento, en paralelo al empleo en Aromaria.
 
 ## Próxima acción única
-→ **Agendar Sesión 4 con Carol (UMA Spa)** para cerrar el Pilar de Planeación y tener el primer caso de éxito completo como credencial de ventas.
+→ **Resolver Decisión 2: tamaño del ICP** (rango de empleados del cliente ideal — quedó pendiente en sesión 2026-06-27). Luego: aprobar posicionamiento.
+
+## Próxima sesión — retomar aquí
+1. Decidir rango de empleados del ICP (propuesta en mesa: 20–60)
+2. Revisar y aprobar `Advanx — Posicionamiento (borrador)`
+3. Agendar Sesión 4 con Carol
 
 ---
 
@@ -40,14 +45,22 @@ Construir una consultoría que facture $18,000 MXN/mes con 1 cliente en acompañ
 ## Pendientes activos
 
 - [ ] **Sesión 4 con Carol** — cerrar Pilar de Planeación, producir "Base Estratégica"
-- [ ] Activar red personal de ventas (pendiente desde 2026-05-28 — riesgo de inacción acumulada)
-- [ ] Revisar borrador de posicionamiento → [[Advanx — Posicionamiento (borrador)]]
+- [x] Documentar todas las brechas en BACKLOG → [[BACKLOG]] (2026-06-27)
+- [x] Crear registro de decisiones → [[DECISIONES]] (2026-06-27)
+- [x] **Metodología oficial definida** → Metodología A, Consultoría estratégica (2026-06-27)
+- [ ] **Decisión 2: tamaño del ICP** — pendiente próxima sesión (propuesta: 20–60 empleados)
+- [ ] Aprobar posicionamiento → [[Advanx — Posicionamiento (borrador)]]
+- [ ] Activar red personal de ventas (pendiente desde 2026-05-28)
 - [ ] Dirección visual (colores, tipografía)
 - [ ] One-pager para prospectos
 
 ---
 
 ## Mapa de notas
+
+**Gestión del proyecto:**
+- [[BACKLOG]] — brechas priorizadas por dependencia
+- [[DECISIONES]] — decisiones formales con razonamiento
 
 **Identidad y modelo:**
 - [[Advanx]] — nota principal: precios, pitches, metodología, caso UMA Spa

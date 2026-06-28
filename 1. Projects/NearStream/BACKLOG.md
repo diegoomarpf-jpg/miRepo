@@ -12,7 +12,7 @@ Backlog del proyecto Advanx generado tras auditoría del 2026-06-27. Las items e
 ## 🔴 Decisiones bloqueantes
 > Sin estas resueltas, los materiales no se pueden terminar.
 
-- [ ] **Definir metodología oficial** — ¿Consultoría estratégica (`Metodología Completa`) o Automatización progresiva (`Metodología Automatización Progresiva`)? Decisión tomada el 2026-06-27 → ver `DECISIONES.md`
+- [x] **Definir metodología oficial** — Adoptada Metodología A (Consultoría estratégica, 4 fases / 16 sesiones). Ver `DECISIONES.md` (2026-06-27)
 - [ ] **Definir tamaño de cliente ideal** — 10-50, 20-80 o ~50 empleados. Hay 3 versiones distintas en las notas. Unificar en `NearStream — Perfil de Cliente Ideal`
 - [ ] **Documentar rol de la socia** — ¿Qué hace, qué decide, qué ejecuta? Actualmente no está en ninguna nota
 

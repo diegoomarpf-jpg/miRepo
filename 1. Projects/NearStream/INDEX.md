@@ -58,6 +58,7 @@ Construir una consultoría que facture $18,000 MXN/mes con 1 cliente en acompañ
 ## Mapa de notas
 
 **Gestión del proyecto:**
+- [[Advanx — Roadmap MVP Launch]] — 4 fases aprobadas para lanzar al mercado (2026-06-29)
 - [[BACKLOG]] — brechas priorizadas por dependencia
 - [[DECISIONES]] — decisiones formales con razonamiento
 

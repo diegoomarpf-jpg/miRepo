@@ -3,7 +3,7 @@ type: proyecto
 status: activo
 nombre: NearStream / Advanx
 inicio: 2026-05
-ultimo-update: 2026-06-27-cierre
+ultimo-update: 2026-06-29
 ---
 
 ## Para el futuro Claude
@@ -18,12 +18,11 @@ Advanx es la consultoría de Diego (2 personas). NearStream es su vertical de au
 Construir una consultoría que facture $18,000 MXN/mes con 1 cliente en acompañamiento, en paralelo al empleo en Aromaria.
 
 ## Próxima acción única
-→ **Resolver Decisión 2: tamaño del ICP** (rango de empleados del cliente ideal — quedó pendiente en sesión 2026-06-27). Luego: aprobar posicionamiento.
+→ **Agendar Sesión 4 con Carol** para cerrar el Pilar de Planeación y tener el primer caso de éxito completo como credencial.
 
 ## Próxima sesión — retomar aquí
-1. Decidir rango de empleados del ICP (propuesta en mesa: 20–60)
-2. Revisar y aprobar `Advanx — Posicionamiento (borrador)`
-3. Agendar Sesión 4 con Carol
+1. Agendar y completar Sesión 4 con Carol
+2. Activar red personal de ventas para conseguir el segundo cliente
 
 ---
 
@@ -48,8 +47,8 @@ Construir una consultoría que facture $18,000 MXN/mes con 1 cliente en acompañ
 - [x] Documentar todas las brechas en BACKLOG → [[BACKLOG]] (2026-06-27)
 - [x] Crear registro de decisiones → [[DECISIONES]] (2026-06-27)
 - [x] **Metodología oficial definida** → Metodología A, Consultoría estratégica (2026-06-27)
-- [ ] **Decisión 2: tamaño del ICP** — pendiente próxima sesión (propuesta: 20–60 empleados)
-- [ ] Aprobar posicionamiento → [[Advanx — Posicionamiento (borrador)]]
+- [x] **Decisión 2: ICP 20–60 empleados** — aprobado 2026-06-29, ver [[DECISIONES]]
+- [x] **Posicionamiento aprobado** → [[Advanx — Posicionamiento (borrador)]] (2026-06-29)
 - [ ] Activar red personal de ventas (pendiente desde 2026-05-28)
 - [ ] Dirección visual (colores, tipografía)
 - [ ] One-pager para prospectos
@@ -64,7 +63,7 @@ Construir una consultoría que facture $18,000 MXN/mes con 1 cliente en acompañ
 
 **Identidad y modelo:**
 - [[Advanx]] — nota principal: precios, pitches, metodología, caso UMA Spa
-- [[Advanx — Posicionamiento (borrador)]] — pendiente revisión
+- [[Advanx — Posicionamiento (borrador)]] — aprobado 2026-06-29
 - [[Advanx — Identidad de Marca]] — nombre, tagline "Ordena. Mide. Escala."
 
 **Metodología:**
@@ -73,7 +72,7 @@ Construir una consultoría que facture $18,000 MXN/mes con 1 cliente en acompañ
 - [[Advanx — Metodología Pilar de Planeación]]
 
 **Clientes y ventas:**
-- [[NearStream — Perfil de Cliente Ideal]] — ICP: 20-80 empleados, decisor único, Excel visible
+- [[NearStream — Perfil de Cliente Ideal]] — ICP: 20–60 empleados (excepción: servicios desde 5), decisor único, Excel visible
 - [[NearStream Registro de Iteraciones]] — 3 iteraciones del modelo de negocio
 
 **Historia del proyecto:**

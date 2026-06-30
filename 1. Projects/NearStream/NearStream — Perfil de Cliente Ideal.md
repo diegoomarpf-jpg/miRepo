@@ -41,7 +41,7 @@ Esta sola pregunta ahorra meses de conversaciones sin cierre. Aprendido de leads
 
 | Variable | Rango ideal |
 |---|---|
-| Empleados | 10–50 |
+| Empleados | 20–60 (excepción: servicios con agenda densa desde 5 emp.) |
 | Años operando | 3+ años |
 | Ingresos aprox. | $3M–$30M MXN/año |
 | Estructura | Dueño operativo + mandos medios |

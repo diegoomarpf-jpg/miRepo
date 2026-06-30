@@ -1,8 +1,9 @@
 ﻿---
 date: 2026-06-06
+updated: 2026-06-29
 type: project
 project: advanx
-status: pending-review
+status: aprobado
 tags: [project, advanx, marca, posicionamiento]
 related-projects:
   - "[[Advanx]]"
@@ -11,29 +12,27 @@ confidence: medium
 ---
 
 ## Para el futuro Claude
-Borrador de posicionamiento de [[Advanx]] generado el 2026-06-06 en sesión con Diego. **Pendiente de revisión y validación por Diego.** No usar como posicionamiento definitivo hasta que Diego lo apruebe. Una vez aprobado, migrar el contenido final a [[Advanx]] y archivar este archivo.
+Posicionamiento de [[Advanx]] aprobado por Diego el 2026-06-29. Versión final — usar como referencia para one-pager, conversaciones de venta y materiales de marca.
 
 ---
 
-# Advanx — Posicionamiento (BORRADOR — pendiente revisión)
-
-> ⚠️ Diego: revisa cada sección, corrige lo que no te represente y confirma lo que sí.
+# Advanx — Posicionamiento
 
 ---
 
 ## Para quién
-Dueños y directores de operaciones de PyMEs mexicanas de 20–80 empleados — manufactura, distribución, alimentos — que operan con Excel y WhatsApp y sienten que ya no pueden crecer sin que todo se les desborde.
+Dueños y directores de operaciones de PyMEs mexicanas de 20–60 empleados — manufactura, distribución, alimentos — que operan con Excel y WhatsApp y sienten que ya no pueden crecer sin que todo se les desborde.
 
 ## El problema que resuelven
 Sus procesos crecieron con la empresa pero nunca se ordenaron. Nadie sabe qué hay en inventario sin preguntarle a alguien. Un reporte tarda 2 horas en hacerse. Cuando alguien sale, el conocimiento se va con él. El dueño ya no opera su empresa — su empresa lo opera a él.
 
 ## Qué hace Advanx
-Diagnostica, ordena y automatiza los procesos clave del negocio para que la empresa pueda crecer con datos reales, sin depender de personas clave ni de hojas de cálculo.
+Ordena, mide y escala los procesos clave del negocio para que la empresa pueda crecer con datos reales, sin depender de personas clave ni de hojas de cálculo.
 
 ## El diferenciador clave
-**No hacemos reportes. Construimos sistemas.**
+**No armamos reportes manuales. Construimos sistemas que miden solos.**
 
-La mayoría de consultoras dejan un PowerPoint y se van. Advanx termina cada engagement con flujos automatizados corriendo en producción. El cliente no compra recomendaciones — compra una operación que ya funciona distinto.
+La mayoría de consultoras dejan un PowerPoint y se van. Advanx termina cada engagement con procesos documentados, dashboards funcionando y automatizaciones en producción. El cliente no compra recomendaciones — compra una operación que ya funciona distinto.
 
 ## Versus las alternativas
 

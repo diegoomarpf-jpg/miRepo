@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-06-17
 type: project
 project: uma-spa
@@ -17,11 +17,11 @@ related-projects:
   - "[[Advanx]]"
   - "[[UMA Spa — Tracker de Acompañamiento]]"
 confidence: stated
-updated: 2026-06-17
+updated: 2026-07-01
 ---
 
 ## Para el futuro Claude
-Estrategia de contenido para redes sociales de [[CAROL]] / UMA Spa, diseñada como **piloto del servicio de automatización RRSS con IA de [[Advanx]]**. Incluye: system prompt base de marca, 4 prompts por tipo de post, y 5 posts de prueba listos para validar con Carol. El flujo técnico planeado es: Google Sheets (calendario) → n8n → Claude API (copy) → Ideogram API (imagen) → Buffer API (publicación). Al 2026-06-17: en fase de validación manual — Carol debe aprobar tono y calidad antes de automatizar.
+Estrategia de contenido para redes sociales de [[CAROL]] / UMA Spa, diseñada como **piloto del servicio de automatización RRSS con IA de [[Advanx]]**. Incluye: system prompt base de marca, 4 prompts por tipo de post, y 5 posts de prueba. **Al 2026-07-01: validación completada por Carol — criterio del 80% superado. Flujo listo para automatizar.** Correcciones aplicadas: (1) días disponibles corregidos — completo: martes/miércoles/viernes, medio día: lunes/jueves/sábados; (2) Post 4 reescrito sin aparatología — Carol no ofrece ese servicio actualmente. El flujo técnico es: Google Sheets (calendario) → n8n → Claude API (copy) → Ideogram API (imagen) → Placid API (logo overlay) → Buffer API (publicación).
 
 ---
 
@@ -74,9 +74,11 @@ IDENTIDAD DE MARCA:
 - Diferenciador real: los clientes no vienen por un masaje,
   vienen por la certeza de que alguien estará completamente
   presente para ellos, sin apuro y con cuidado genuino
-- Servicios estrella: masaje relajante, masaje reductivo,
+- Servicios estrella: masaje relajante, masaje reductivo (manual),
   limpieza facial profunda
 - Público: mujeres de 25 a 45 años que priorizan su bienestar
+- Días disponibles: martes, miércoles y viernes (jornada completa)
+  Lunes, jueves y sábados (medio día)
 
 REGLAS:
 - Nunca mencionar precios en el caption
@@ -84,6 +86,8 @@ REGLAS:
 - Máximo 3 emojis por post
 - Siempre terminar con una pregunta o invitación a reservar
 - Lenguaje: español México, warm pero profesional
+- NO mencionar aparatología (cavitación, radiofrecuencia) — UMA
+  solo ofrece técnica manual actualmente
 ```
 
 ---
@@ -178,9 +182,9 @@ wellness and self-care aesthetic, photorealistic portrait"
 
 ---
 
-## 5 Posts de Prueba (generados 2026-06-17)
+## 5 Posts de Prueba (generados 2026-06-17, validados 2026-07-01)
 
-> Estos posts están pendientes de validación por [[CAROL]]. Ver sección de preguntas de validación al final.
+> ✅ **Validados por [[CAROL]] el 2026-07-01.** Tono aprobado. Correcciones aplicadas: días disponibles y Post 4 sin aparatología.
 
 ### Post 1 — Bienestar: El valor de parar
 
@@ -210,7 +214,7 @@ wellness and self-care aesthetic, photorealistic portrait"
 >
 > Mientras más tensión acumulas, más diferencia sientes. Las clientas salen con los hombros abajo, la respiración profunda y esa sensación de que el mundo puede esperar.
 >
-> Sesiones disponibles martes, jueves y sábado.
+> Sesiones disponibles martes, miércoles y viernes. También medio día lunes, jueves y sábados.
 >
 > ¿Te agendamos esta semana?
 
@@ -244,7 +248,7 @@ wellness and self-care aesthetic, photorealistic portrait"
 **Caption:**
 > Moldear contornos requiere constancia — y el apoyo correcto. 🌸
 >
-> El masaje reductivo de UMA combina técnica manual con aparatología especializada: cavitación, radiofrecuencia y maderoterapia. Trabajamos juntas en un plan real, no en una promesa de una sola sesión.
+> El masaje reductivo de UMA es técnica manual especializada: movimientos precisos que activan la circulación, drenan y definen. Sin atajos. Solo manos con experiencia y atención personalizada en cada sesión.
 >
 > Lo que sienten las clientas después: la zona más firme, mejor circulación y ese alivio de saber que están haciendo algo por ellas.
 >
@@ -252,9 +256,9 @@ wellness and self-care aesthetic, photorealistic portrait"
 >
 > Escríbenos por DM para conocer opciones de paquetes.
 
-**Hashtags:** #MasajeReductivo #UMASpa #Cavitación #Maderoterapia #CuerpoSano #Ocoyoacac #TratamientosReductivos #BienestarEdomex
+**Hashtags:** #MasajeReductivo #UMASpa #MasajeManual #CuerpoSano #Ocoyoacac #TratamientosReductivos #BienestarEdomex
 
-**Imagen Ideogram:** `Professional body contouring spa treatment, warm professional atmosphere, maderotherapy wooden tools, skilled therapist, relaxed client, holistic wellness center, soft lighting, photorealistic`
+**Imagen Ideogram:** `Professional body contouring massage, skilled therapist hands on client, warm spa atmosphere, holistic wellness center, soft natural lighting, photorealistic`
 
 ---
 
@@ -267,7 +271,7 @@ wellness and self-care aesthetic, photorealistic portrait"
 >
 > Una hora de masaje relajante en UMA: sin ruido, sin apuro, con atención completa de principio a fin. El tipo de pausa que te recuerda cómo se siente estar bien de verdad.
 >
-> Martes, jueves o sábado en Ocoyoacac.
+> Martes, miércoles o viernes en Ocoyoacac. También medio día lunes, jueves y sábados.
 >
 > Escríbenos por DM o WhatsApp y te confirmamos tu lugar hoy. ✉️
 
@@ -277,15 +281,16 @@ wellness and self-care aesthetic, photorealistic portrait"
 
 ---
 
-## Validación con Carol
+## Validación con Carol — ✅ Completada 2026-07-01
 
-Preguntas para la sesión de validación de tono:
+**Resultado:** Tono aprobado. Criterio del 80% superado → flujo listo para conectar.
 
-1. **¿El tono se siente tuyo?** (si suena demasiado formal o demasiado relajado)
-2. **¿Cambiarías algo de cómo describes los servicios?**
-3. **¿Hay palabras que nunca usarías para hablar de UMA?**
+**Feedback recibido (WhatsApp 10:32–10:34 PM, 2026-06-17):**
+- Tono: "Se siente como tono de UMA" ✅
+- Días disponibles corregidos: martes, miércoles y viernes (completo) / lunes, jueves y sábados (medio día)
+- Post 4: aparatología eliminada — Carol no ofrece ese servicio actualmente
 
-Criterio para automatizar: cuando el 80% de los posts salgan aprobados sin edición mayor → conectar flujo n8n.
+**Siguiente paso:** Fase 2 — Setup de herramientas (Ideogram, Placid, Buffer)
 
 ---
 
@@ -299,3 +304,6 @@ Criterio para automatizar: cuando el 80% de los posts salgan aprobados sin edici
 
 **Costo operativo real para Advanx:** ~$50–60 USD/mes por cliente (Ideogram + Placid + Buffer)  
 **Diferenciador del servicio:** No se venden "posts" — se vende un sistema que aprende la voz de la marca y produce sin intervención del cliente.
+
+
+
